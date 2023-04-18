@@ -3,6 +3,7 @@
 ### Instale o Typescript:
 
 - Use o npm install typescript --save-dev ;
+- Rode o comando npm-audit fix;
 
 ### npm-audit fix:
 
